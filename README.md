@@ -29,4 +29,5 @@ Spec-driven development, using gstack + gbrain workflows, plus marketing psychol
 
 ## Docs in this repo
 
+- [`discovery.md`](./discovery.md) — problem statement, demand evidence, approaches considered, recommended approach, and open questions
 - [`rcgv-segment-research.md`](./rcgv-segment-research.md) — segment/competitor research and the current MVP direction
