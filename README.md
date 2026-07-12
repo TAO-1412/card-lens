@@ -31,4 +31,5 @@ Spec-driven development, using gstack + gbrain workflows, plus marketing psychol
 
 - [`card-lens.md`](./card-lens.md) — original project brief: objective, initial idea, framework
 - [`rcgv-segment-research.md`](./rcgv-segment-research.md) — segment/competitor research and the current MVP direction
-- [`Autonomous apllication Q3.md`](./Autonomous%20apllication%20Q3.md) — unrelated: an AI-workflow sample for a separate exercise, kept in this repo but not part of the product
+
+An unrelated AI-workflow writeup for a separate exercise lives on the [`q3-exercise`](https://github.com/TAO-1412/card-lens/tree/q3-exercise) branch — not part of the product, kept off `main`.
