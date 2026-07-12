@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo.png" alt="Card Lens logo" width="480">
+</p>
+
 # card-lens
 
 A website for comparing debit and credit cards across banks in Vietnam — currently in the PMF validation stage.
