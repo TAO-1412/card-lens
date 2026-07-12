@@ -1,6 +1,6 @@
 # card-lens
 
-A website for comparing debit and credit cards across banks in Vietnam — currently in the PMF validation stage, not yet built.
+A website for comparing debit and credit cards across banks in Vietnam — currently in the PMF validation stage.
 
 ## The problem
 
@@ -21,7 +21,7 @@ Research (post/comment engagement analysis + a competitive/legal check) points t
 
 ## Objective
 
-Built to handle real concurrent user traffic (target: 200 simultaneous users without degrading the experience), with product architecture, GTM, and funnel/analytics tracking built in from the start — doubling as a portfolio piece for Growth / Product Marketing / GTM Engineer roles.
+Built to handle real concurrent user traffic (target: 200 simultaneous users without degrading the experience), with product architecture and funnel/analytics tracking built in from the start.
 
 ## Approach
 
@@ -29,5 +29,4 @@ Spec-driven development, using gstack + gbrain workflows, plus marketing psychol
 
 ## Docs in this repo
 
-- [`card-lens.md`](./card-lens.md) — original project brief: objective, initial idea, framework
 - [`rcgv-segment-research.md`](./rcgv-segment-research.md) — segment/competitor research and the current MVP direction
