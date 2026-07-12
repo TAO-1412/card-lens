@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="./assets/logo.png" alt="Card Lens logo" width="480">
+</p>
+
 # card-lens
 
-A website for comparing debit and credit cards across banks in Vietnam — currently in the PMF validation stage, not yet built.
+A website for comparing debit and credit cards across banks in Vietnam — currently in the PMF validation stage.
 
 ## The problem
 
@@ -21,7 +25,7 @@ Research (post/comment engagement analysis + a competitive/legal check) points t
 
 ## Objective
 
-Beyond the product itself, this is a learning project: vibe-coding a real product with Claude Code, designed to handle real concurrent user traffic (target: 200 simultaneous users without degrading the experience), with an explicit goal of learning product architecture, GTM, and funnel/analytics tracking end to end. If it works, it doubles as a portfolio piece for Growth / Product Marketing / GTM Engineer roles.
+Built to handle real concurrent user traffic (target: 200 simultaneous users without degrading the experience), with product architecture and funnel/analytics tracking built in from the start.
 
 ## Approach
 
@@ -29,6 +33,5 @@ Spec-driven development, using gstack + gbrain workflows, plus marketing psychol
 
 ## Docs in this repo
 
-- [`card-lens.md`](./card-lens.md) — original project brief: objective, initial idea, framework
+- [`discovery.md`](./discovery.md) — problem statement, demand evidence, approaches considered, recommended approach, and open questions
 - [`rcgv-segment-research.md`](./rcgv-segment-research.md) — segment/competitor research and the current MVP direction
-- [`Autonomous apllication Q3.md`](./Autonomous%20apllication%20Q3.md) — unrelated: an AI-workflow sample for a separate exercise, kept in this repo but not part of the product
