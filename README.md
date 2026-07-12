@@ -21,7 +21,7 @@ Research (post/comment engagement analysis + a competitive/legal check) points t
 
 ## Objective
 
-Beyond the product itself, this is a learning project: vibe-coding a real product with Claude Code, designed to handle real concurrent user traffic (target: 200 simultaneous users without degrading the experience), with an explicit goal of learning product architecture, GTM, and funnel/analytics tracking end to end. If it works, it doubles as a portfolio piece for Growth / Product Marketing / GTM Engineer roles.
+Built to handle real concurrent user traffic (target: 200 simultaneous users without degrading the experience), with product architecture, GTM, and funnel/analytics tracking built in from the start — doubling as a portfolio piece for Growth / Product Marketing / GTM Engineer roles.
 
 ## Approach
 
@@ -31,5 +31,3 @@ Spec-driven development, using gstack + gbrain workflows, plus marketing psychol
 
 - [`card-lens.md`](./card-lens.md) — original project brief: objective, initial idea, framework
 - [`rcgv-segment-research.md`](./rcgv-segment-research.md) — segment/competitor research and the current MVP direction
-
-An unrelated AI-workflow writeup for a separate exercise lives on the [`q3-exercise`](https://github.com/TAO-1412/card-lens/tree/q3-exercise) branch — not part of the product, kept off `main`.
