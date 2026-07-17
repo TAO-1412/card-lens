@@ -1,4 +1,4 @@
-# Autonomous Application — Q3 Exercise: AI Conversation Sample
+# Growth Application — Q3 Exercise: AI Conversation Sample
 
 **Tool:** Claude Code (Sonnet 5), terminal-based agentic session
 **Context:** Real work on `card-lens`, a personal side project comparing VN debit/credit cards. This session covers market-research and legal-compliance work done in the last 7 days — picked because it's genuinely back-and-forth: I redirected the approach twice (login-wall workaround, watchlist framing), and the AI pushed back once (flagged an account-risk concern before I'd considered it) rather than just executing the first instruction.
